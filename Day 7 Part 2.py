@@ -1,6 +1,3 @@
-import audioop
-
-
 lst = """$ cd /
 $ ls
 dir dtcfhsm
